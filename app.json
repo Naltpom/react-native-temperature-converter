@@ -31,6 +31,12 @@
         "projectId": "677b6e86-339f-4791-b764-201d3d5a22ff"
       }
     },
-    "owner": "naltpom"
+    "owner": "naltpom",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/677b6e86-339f-4791-b764-201d3d5a22ff"
+    }
   }
 }
